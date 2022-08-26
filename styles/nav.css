@@ -1,0 +1,16 @@
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 20px;
+    color: blue;
+    padding: 0 10px;
+}
+nav li:hover{
+    background-color: bisque;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 30px;
+}
